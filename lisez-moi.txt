@@ -1,0 +1,4 @@
+J'ai développé ce jeu pour l'anniversaire de mon frère, grand fan de Super Mario.
+
+J'ai suivi le tutoriel de Ray Wenderlich (https://www.raywenderlich.com/71-spritekit-tutorial-for-beginners),
+puisqu'il s'agissait de ma toute première expérience avec Swift et Xcode.
